@@ -10,6 +10,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
+map_Kd cow.png
+
 
 newmtl None
 Ns 500
@@ -58,6 +60,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd panda.png
 
 newmtl panda.Brown_Panda.001
 Ns 225.000000
